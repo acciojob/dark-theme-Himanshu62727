@@ -1,6 +1,12 @@
 #app{
   height:90vh;
 }
+
+#ptag{
+	color: skyblue;
+	text-align: center;
+}
+
 .night{
   background-color: black;
   color:white;
@@ -8,6 +14,7 @@
 
 #swap{
   outline:0;
+  display: flex;
 }
 
 .button_night{
