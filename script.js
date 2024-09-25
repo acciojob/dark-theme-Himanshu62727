@@ -5,6 +5,6 @@
 // btn.addEventListner("click", ChangeTheme);
 
 
-function changeBackgroundColor() {
+function swapTheme() {
 	document.body.style.backgroundColor = "black";
 }
